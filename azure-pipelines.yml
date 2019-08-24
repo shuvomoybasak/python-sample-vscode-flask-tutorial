@@ -1,7 +1,8 @@
   # This is the completed azure-pipelines.yaml file from previous steps.
 variables:
-  ConnectedServiceName: 'mipython'
-  WebAppName: 'mipython'
+  ConnectedServiceName: 'shuvomoy.b'
+  WebAppName: msdocs-flaskpipelines'
+
 
 trigger:
 - master
