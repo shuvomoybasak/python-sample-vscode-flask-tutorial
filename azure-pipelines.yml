@@ -36,7 +36,7 @@ steps:
 - task: AzureRMWebAppDeployment@4
   displayName: Azure App Service Deploy
   inputs:
-    appType: webAppLinux
+    appType: webApp
     RuntimeStack: 'PYTHON|3.6'
     ConnectedServiceName: $(ConnectedServiceName)
     WebAppName: $(WebAppName)
