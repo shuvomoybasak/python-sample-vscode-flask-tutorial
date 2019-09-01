@@ -2,9 +2,9 @@
 
 variables:
 
-  ConnectedServiceName: 'shuvomoyb'
+  ConnectedServiceName: 'shuvomoybasak'
 
-  WebAppName: msdocs-flaskpipelines'
+  WebAppName: 'shuvomoybasak-flaskpipelines'
 
 
 
